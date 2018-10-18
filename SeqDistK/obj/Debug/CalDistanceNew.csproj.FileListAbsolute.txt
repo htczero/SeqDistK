@@ -1,0 +1,74 @@
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\CalDistance\bin\Debug\CalDistance.exe.config
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\CalDistance\bin\Debug\CalDistance.exe
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\CalDistance\bin\Debug\CalDistance.pdb
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\CalDistance\obj\Debug\CalDistance.FrmDistance.resources
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\CalDistance\obj\Debug\CalDistance.Properties.Resources.resources
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\CalDistance\obj\Debug\CalDistanceNew.csproj.GenerateResource.Cache
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\CalDistance\obj\Debug\CalDistance.exe
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\CalDistance\obj\Debug\CalDistance.pdb
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\CalDistance\obj\Debug\CalDistanceNew.csprojResolveAssemblyReference.cache
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNewTmp\CalDistance\obj\Debug\CalDistanceNew.csprojResolveAssemblyReference.cache
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNewTmp\CalDistance\obj\Debug\CalDistance.FrmDistance.resources
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNewTmp\CalDistance\obj\Debug\CalDistance.Properties.Resources.resources
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNewTmp\CalDistance\obj\Debug\CalDistanceNew.csproj.GenerateResource.Cache
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNewTmp\CalDistance\obj\Debug\CalDistance.exe
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNewTmp\CalDistance\obj\Debug\CalDistance.pdb
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNewTmp\CalDistance\bin\Debug\CalDistance.exe.config
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNewTmp\CalDistance\bin\Debug\CalDistance.exe
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNewTmp\CalDistance\bin\Debug\CalDistance.pdb
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNew\CalDistance\bin\Debug\CalDistance.exe.config
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNew\CalDistance\bin\Debug\CalDistance.exe
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNew\CalDistance\bin\Debug\CalDistance.pdb
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNew\CalDistance\obj\Debug\CalDistanceNew.csprojResolveAssemblyReference.cache
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNew\CalDistance\obj\Debug\CalDistance.FrmDistance.resources
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNew\CalDistance\obj\Debug\CalDistance.Properties.Resources.resources
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNew\CalDistance\obj\Debug\CalDistanceNew.csproj.GenerateResource.Cache
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNew\CalDistance\obj\Debug\CalDistance.exe
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNew\CalDistance\obj\Debug\CalDistance.pdb
+E:\OneDrive\project\Biology\CalDistanceNew\CalDistance\bin\Debug\CalDistance.exe.config
+E:\OneDrive\project\Biology\CalDistanceNew\CalDistance\bin\Debug\CalDistance.exe
+E:\OneDrive\project\Biology\CalDistanceNew\CalDistance\bin\Debug\CalDistance.pdb
+E:\OneDrive\project\Biology\CalDistanceNew\CalDistance\obj\Debug\CalDistanceNew.csprojResolveAssemblyReference.cache
+E:\OneDrive\project\Biology\CalDistanceNew\CalDistance\obj\Debug\CalDistance.FrmDistance.resources
+E:\OneDrive\project\Biology\CalDistanceNew\CalDistance\obj\Debug\CalDistance.Properties.Resources.resources
+E:\OneDrive\project\Biology\CalDistanceNew\CalDistance\obj\Debug\CalDistanceNew.csproj.GenerateResource.Cache
+E:\OneDrive\project\Biology\CalDistanceNew\CalDistance\obj\Debug\CalDistance.exe
+E:\OneDrive\project\Biology\CalDistanceNew\CalDistance\obj\Debug\CalDistance.pdb
+E:\OneDrive\C# project\Biology\CalDistance2018\CalDistance\bin\Debug\CalDistance.exe.config
+E:\OneDrive\C# project\Biology\CalDistance2018\CalDistance\bin\Debug\CalDistance.exe
+E:\OneDrive\C# project\Biology\CalDistance2018\CalDistance\bin\Debug\CalDistance.pdb
+E:\OneDrive\C# project\Biology\CalDistance2018\CalDistance\obj\Debug\CalDistanceNew.csprojResolveAssemblyReference.cache
+E:\OneDrive\C# project\Biology\CalDistance2018\CalDistance\obj\Debug\CalDistance.FrmDistance.resources
+E:\OneDrive\C# project\Biology\CalDistance2018\CalDistance\obj\Debug\CalDistance.Properties.Resources.resources
+E:\OneDrive\C# project\Biology\CalDistance2018\CalDistance\obj\Debug\CalDistanceNew.csproj.GenerateResource.Cache
+E:\OneDrive\C# project\Biology\CalDistance2018\CalDistance\obj\Debug\CalDistanceNew.csproj.CoreCompileInputs.cache
+E:\OneDrive\C# project\Biology\CalDistance2018\CalDistance\obj\Debug\CalDistance.exe
+E:\OneDrive\C# project\Biology\CalDistance2018\CalDistance\obj\Debug\CalDistance.pdb
+E:\OneDrive\C# project\Biology\CalDistance2018_super\CalDistance\bin\Debug\CalDistance.exe.config
+E:\OneDrive\C# project\Biology\CalDistance2018_super\CalDistance\bin\Debug\CalDistance.exe
+E:\OneDrive\C# project\Biology\CalDistance2018_super\CalDistance\bin\Debug\CalDistance.pdb
+E:\OneDrive\C# project\Biology\CalDistance2018_super\CalDistance\obj\Debug\CalDistanceNew.csprojResolveAssemblyReference.cache
+E:\OneDrive\C# project\Biology\CalDistance2018_super\CalDistance\obj\Debug\CalDistance.FrmDistance.resources
+E:\OneDrive\C# project\Biology\CalDistance2018_super\CalDistance\obj\Debug\CalDistance.Properties.Resources.resources
+E:\OneDrive\C# project\Biology\CalDistance2018_super\CalDistance\obj\Debug\CalDistanceNew.csproj.GenerateResource.Cache
+E:\OneDrive\C# project\Biology\CalDistance2018_super\CalDistance\obj\Debug\CalDistanceNew.csproj.CoreCompileInputs.cache
+E:\OneDrive\C# project\Biology\CalDistance2018_super\CalDistance\obj\Debug\CalDistance.exe
+E:\OneDrive\C# project\Biology\CalDistance2018_super\CalDistance\obj\Debug\CalDistance.pdb
+E:\OneDrive\C# project\Biology\CalDistance历史版本\CalDistance2018.2.1\CalDistance\obj\Debug\CalDistance.FrmDistance.resources
+E:\OneDrive\C# project\Biology\CalDistance历史版本\CalDistance2018.2.1\CalDistance\obj\Debug\CalDistance.Properties.Resources.resources
+E:\OneDrive\C# project\Biology\CalDistance历史版本\CalDistance2018.2.1\CalDistance\obj\Debug\CalDistanceNew.csproj.GenerateResource.Cache
+E:\OneDrive\C# project\Biology\CalDistance历史版本\CalDistance2018.2.1\CalDistance\obj\Debug\CalDistanceNew.csproj.CoreCompileInputs.cache
+E:\OneDrive\C# project\Biology\CalDistance历史版本\CalDistance2018.2.1\CalDistance\obj\Debug\CalDistance.exe
+E:\OneDrive\C# project\Biology\CalDistance历史版本\CalDistance2018.2.1\CalDistance\obj\Debug\CalDistance.pdb
+E:\OneDrive\C# project\Biology\CalDistance历史版本\CalDistance2018.2.1\CalDistance\bin\Debug\CalDistance.exe.config
+E:\OneDrive\C# project\Biology\CalDistance历史版本\CalDistance2018.2.1\CalDistance\bin\Debug\CalDistance.exe
+E:\OneDrive\C# project\Biology\CalDistance历史版本\CalDistance2018.2.1\CalDistance\bin\Debug\CalDistance.pdb
+E:\OneDrive\C# project\Biology\CalDistance历史版本\CalDistance2018.3.1\CalDistance\bin\Debug\CalDistance.exe.config
+E:\OneDrive\C# project\Biology\CalDistance历史版本\CalDistance2018.3.1\CalDistance\bin\Debug\CalDistance.exe
+E:\OneDrive\C# project\Biology\CalDistance历史版本\CalDistance2018.3.1\CalDistance\bin\Debug\CalDistance.pdb
+E:\OneDrive\C# project\Biology\CalDistance历史版本\CalDistance2018.3.1\CalDistance\obj\Debug\CalDistance.FrmDistance.resources
+E:\OneDrive\C# project\Biology\CalDistance历史版本\CalDistance2018.3.1\CalDistance\obj\Debug\CalDistance.Properties.Resources.resources
+E:\OneDrive\C# project\Biology\CalDistance历史版本\CalDistance2018.3.1\CalDistance\obj\Debug\CalDistanceNew.csproj.GenerateResource.Cache
+E:\OneDrive\C# project\Biology\CalDistance历史版本\CalDistance2018.3.1\CalDistance\obj\Debug\CalDistanceNew.csproj.CoreCompileInputs.cache
+E:\OneDrive\C# project\Biology\CalDistance历史版本\CalDistance2018.3.1\CalDistance\obj\Debug\CalDistance.exe
+E:\OneDrive\C# project\Biology\CalDistance历史版本\CalDistance2018.3.1\CalDistance\obj\Debug\CalDistance.pdb
