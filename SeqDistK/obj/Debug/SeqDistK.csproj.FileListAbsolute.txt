@@ -11,7 +11,6 @@ E:\Windows\Documents\GitHub\SeqDistK\CalDistance\obj\Debug\CalDistance.pdb
 E:\Windows\Documents\GitHub\SeqDistK\SeqDistK\bin\Debug\SeqDistK.exe.config
 E:\Windows\Documents\GitHub\SeqDistK\SeqDistK\bin\Debug\SeqDistK.exe
 E:\Windows\Documents\GitHub\SeqDistK\SeqDistK\bin\Debug\SeqDistK.pdb
-E:\Windows\Documents\GitHub\SeqDistK\SeqDistK\obj\Debug\SeqDistK.csprojAssemblyReference.cache
 E:\Windows\Documents\GitHub\SeqDistK\SeqDistK\obj\Debug\SeqDistK.FrmDistance.resources
 E:\Windows\Documents\GitHub\SeqDistK\SeqDistK\obj\Debug\SeqDistK.Properties.Resources.resources
 E:\Windows\Documents\GitHub\SeqDistK\SeqDistK\obj\Debug\SeqDistK.csproj.GenerateResource.cache
