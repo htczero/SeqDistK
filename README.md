@@ -25,7 +25,7 @@
 ------------------------------------------------------------------------------------------------
 
 + Input structure unit must be 
-
+~~~
   directory-unit
     single-seq.txt
     directory-multi-seqs
@@ -33,7 +33,7 @@
 		  seq2.txt
 		  ...
 		  seqN.txt
-		
+~~~		
   
 
   then, you will get one by N matrix
