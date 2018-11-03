@@ -12,6 +12,7 @@
 
 ### N to N mode
 <img src="https://github.com/htczero/SeqDistK/blob/master/img/NtoN.png" />
+N to N
 + Group by directory. If there are N sequences in the directory, you will get N by N matrix
 + Support multiple directory and multilevel directory structure. Each directory will calculate independently. The result will save in save directory structure.
 + If you have select d2star or d2S, you must select Markove value(M)
@@ -19,6 +20,7 @@
 
 ### 1 to N mode
 <img src="https://github.com/htczero/SeqDistK/blob/master/img/1toN.png" />
+1 to N
 + Input structure unit must be 
 
   directory-unit
