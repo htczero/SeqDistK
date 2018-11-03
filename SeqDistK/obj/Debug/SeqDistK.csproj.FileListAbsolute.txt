@@ -17,3 +17,4 @@ E:\Windows\Documents\GitHub\SeqDistK\SeqDistK\obj\Debug\SeqDistK.csproj.Generate
 E:\Windows\Documents\GitHub\SeqDistK\SeqDistK\obj\Debug\SeqDistK.csproj.CoreCompileInputs.cache
 E:\Windows\Documents\GitHub\SeqDistK\SeqDistK\obj\Debug\SeqDistK.exe
 E:\Windows\Documents\GitHub\SeqDistK\SeqDistK\obj\Debug\SeqDistK.pdb
+E:\Windows\Documents\GitHub\SeqDistK\SeqDistK\obj\Debug\SeqDistK.csprojAssemblyReference.cache

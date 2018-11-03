@@ -180,7 +180,7 @@ namespace SeqDistK
                 }
             }
             sp.Stop();
-            MessageBox.Show("Completed！" + (sp.ElapsedMilliseconds * 1.0 / 1000).ToString(), "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Completed！" + (sp.ElapsedMilliseconds * 1.0 / 1000).ToString() + "s", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
             Process.Start(saveDir);
         }
 

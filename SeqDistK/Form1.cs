@@ -60,7 +60,7 @@ namespace SeqDistK
 
                 if (arrPath.Length != 1)
                 {
-                    MessageBox.Show("只能拖拽一个(⊙o⊙)哦", "温馨提示", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MessageBox.Show("Only one path can be tragged in", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return;
                 }
 
@@ -70,48 +70,48 @@ namespace SeqDistK
                         tbx.Text = arrPath[0];
                     else
                     {
-                        MessageBox.Show("请输入目录(⊙o⊙)哦", "温馨提示", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        MessageBox.Show("Please input the directory", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     }
                 }
-                else
-                {
-                    if (File.Exists(arrPath[0]))
-                        tbx.Text = arrPath[0];
-                    else
-                    {
-                        MessageBox.Show("请输入序列文件(⊙o⊙)哦", "温馨提示", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                    }//else
-                }//else
+                //else
+                //{
+                //    if (File.Exists(arrPath[0]))
+                //        tbx.Text = arrPath[0];
+                //    else
+                //    {
+                //        MessageBox.Show("请输入序列文件(⊙o⊙)哦", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                //    }//else
+                //}//else
             }//else
         }
         private bool CheckSetting()
         {
             if (treLoad.Nodes.Count == 0)
             {
-                MessageBox.Show("输入序列不能为空(⊙o⊙)哦", "温馨提示", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Please input sequence files", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 return false;
             }
             if (cbxk1.SelectedItem == null)
             {
-                MessageBox.Show("k值不能为空(⊙o⊙)哦", "温馨提示", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("The value of k can not be none", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 return false;
             }
             if (clbFun.SelectedItems.Count == 0)
             {
-                MessageBox.Show("请选择距离计算方式(⊙o⊙)哦", "温馨提示", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Please select at least one ways to calculate", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 return false;
             }
             if (lblM.Visible == true)
             {
                 if (cbxm1.SelectedItem == null)
                 {
-                    MessageBox.Show("M值不能为空(⊙o⊙)哦", "温馨提示", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("The value of M can not be none", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     return false;
                 }
             }
             if (txtSave.Text == "")
             {
-                MessageBox.Show("保存目录不能为空(⊙o⊙)哦", "温馨提示", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Saveing path can not be none", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 return false;
             }
             GetParameter();
