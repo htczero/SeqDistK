@@ -27,8 +27,8 @@
 + Input structure unit must be 
 
   directory-unit
-      single-seq.txt
-	  directory-multi-seqs
+    single-seq.txt
+    directory-multi-seqs
 	      seq1.txt
 		  seq2.txt
 		  ...
