@@ -165,7 +165,7 @@ namespace SeqDistK
             foreach (var item in clbFun.CheckedItems)
             {
                 string str = item.ToString();
-                if (str == "D2S" || str == "D2Star")
+                if (str == "d2S" || str == "d2star")
                 {
                     lblM.Visible = true;
                     cbxm1.Visible = cbxm2.Visible = lblToM.Visible = true;

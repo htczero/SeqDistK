@@ -218,10 +218,10 @@
             "Eu",
             "Ma",
             "Ch",
-            "D2",
+            "d2",
             "Hao",
-            "D2Star",
-            "D2S"});
+            "d2star",
+            "d2S"});
             this.clbFun.Location = new System.Drawing.Point(167, 180);
             this.clbFun.Name = "clbFun";
             this.clbFun.Size = new System.Drawing.Size(128, 172);
