@@ -24,7 +24,7 @@
 <img src="https://github.com/htczero/SeqDistK/blob/master/img/1toN.png" />
 ------------------------------------------------------------------------------------------------
 
-++ Input structure unit must be 
++ Input structure unit must be 
 
   directory-unit
       single-seq.txt
