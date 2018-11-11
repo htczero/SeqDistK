@@ -72,7 +72,7 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(413, 681);
+            this.panel1.Size = new System.Drawing.Size(202, 385);
             this.panel1.TabIndex = 0;
             // 
             // groupBox1
@@ -82,7 +82,7 @@
             this.groupBox1.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.groupBox1.Location = new System.Drawing.Point(0, 0);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(413, 681);
+            this.groupBox1.Size = new System.Drawing.Size(202, 385);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Sequence";
@@ -94,7 +94,7 @@
             this.treLoad.Dock = System.Windows.Forms.DockStyle.Fill;
             this.treLoad.Location = new System.Drawing.Point(3, 19);
             this.treLoad.Name = "treLoad";
-            this.treLoad.Size = new System.Drawing.Size(407, 659);
+            this.treLoad.Size = new System.Drawing.Size(196, 363);
             this.treLoad.TabIndex = 0;
             this.treLoad.DragDrop += new System.Windows.Forms.DragEventHandler(this.myDragDrop);
             this.treLoad.DragEnter += new System.Windows.Forms.DragEventHandler(this.myDragEnter);
@@ -119,9 +119,9 @@
             this.panel2.Controls.Add(this.groupBox3);
             this.panel2.Controls.Add(this.groupBox2);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel2.Location = new System.Drawing.Point(413, 0);
+            this.panel2.Location = new System.Drawing.Point(202, 0);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(851, 681);
+            this.panel2.Size = new System.Drawing.Size(544, 385);
             this.panel2.TabIndex = 1;
             // 
             // groupBox4
@@ -129,9 +129,9 @@
             this.groupBox4.Controls.Add(this.txtSate);
             this.groupBox4.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupBox4.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.groupBox4.Location = new System.Drawing.Point(447, 0);
+            this.groupBox4.Location = new System.Drawing.Point(286, 0);
             this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(404, 505);
+            this.groupBox4.Size = new System.Drawing.Size(258, 297);
             this.groupBox4.TabIndex = 2;
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "State";
@@ -143,7 +143,7 @@
             this.txtSate.Multiline = true;
             this.txtSate.Name = "txtSate";
             this.txtSate.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.txtSate.Size = new System.Drawing.Size(398, 483);
+            this.txtSate.Size = new System.Drawing.Size(252, 275);
             this.txtSate.TabIndex = 0;
             // 
             // groupBox3
@@ -165,7 +165,7 @@
             this.groupBox3.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.groupBox3.Location = new System.Drawing.Point(0, 0);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(447, 505);
+            this.groupBox3.Size = new System.Drawing.Size(286, 297);
             this.groupBox3.TabIndex = 1;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Setting";
@@ -173,7 +173,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(164, 431);
+            this.label1.Location = new System.Drawing.Point(175, 226);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(32, 17);
             this.label1.TabIndex = 9;
@@ -182,15 +182,15 @@
             // cbxCPU
             // 
             this.cbxCPU.FormattingEnabled = true;
-            this.cbxCPU.Location = new System.Drawing.Point(200, 428);
+            this.cbxCPU.Location = new System.Drawing.Point(178, 255);
             this.cbxCPU.Name = "cbxCPU";
-            this.cbxCPU.Size = new System.Drawing.Size(95, 25);
+            this.cbxCPU.Size = new System.Drawing.Size(80, 25);
             this.cbxCPU.TabIndex = 8;
             // 
             // rbn
             // 
             this.rbn.AutoSize = true;
-            this.rbn.Location = new System.Drawing.Point(277, 370);
+            this.rbn.Location = new System.Drawing.Point(178, 156);
             this.rbn.Name = "rbn";
             this.rbn.Size = new System.Drawing.Size(63, 21);
             this.rbn.TabIndex = 7;
@@ -201,7 +201,7 @@
             // 
             this.radioButton1.AutoSize = true;
             this.radioButton1.Checked = true;
-            this.radioButton1.Location = new System.Drawing.Point(97, 370);
+            this.radioButton1.Location = new System.Drawing.Point(178, 108);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(66, 21);
             this.radioButton1.TabIndex = 7;
@@ -222,16 +222,16 @@
             "Hao",
             "d2star",
             "d2S"});
-            this.clbFun.Location = new System.Drawing.Point(167, 180);
+            this.clbFun.Location = new System.Drawing.Point(50, 108);
             this.clbFun.Name = "clbFun";
-            this.clbFun.Size = new System.Drawing.Size(128, 172);
+            this.clbFun.Size = new System.Drawing.Size(80, 172);
             this.clbFun.TabIndex = 3;
             this.clbFun.SelectedIndexChanged += new System.EventHandler(this.clbFun_SelectedIndexChanged);
             // 
             // cbxm2
             // 
             this.cbxm2.FormattingEnabled = true;
-            this.cbxm2.Location = new System.Drawing.Point(260, 125);
+            this.cbxm2.Location = new System.Drawing.Point(178, 68);
             this.cbxm2.Name = "cbxm2";
             this.cbxm2.Size = new System.Drawing.Size(80, 25);
             this.cbxm2.TabIndex = 1;
@@ -240,7 +240,7 @@
             // cbxk2
             // 
             this.cbxk2.FormattingEnabled = true;
-            this.cbxk2.Location = new System.Drawing.Point(260, 51);
+            this.cbxk2.Location = new System.Drawing.Point(178, 28);
             this.cbxk2.Name = "cbxk2";
             this.cbxk2.Size = new System.Drawing.Size(80, 25);
             this.cbxk2.TabIndex = 1;
@@ -253,7 +253,7 @@
             "1",
             "2",
             "3"});
-            this.cbxm1.Location = new System.Drawing.Point(132, 125);
+            this.cbxm1.Location = new System.Drawing.Point(50, 68);
             this.cbxm1.Name = "cbxm1";
             this.cbxm1.Size = new System.Drawing.Size(80, 25);
             this.cbxm1.TabIndex = 1;
@@ -263,7 +263,7 @@
             // lblToM
             // 
             this.lblToM.AutoSize = true;
-            this.lblToM.Location = new System.Drawing.Point(227, 128);
+            this.lblToM.Location = new System.Drawing.Point(145, 71);
             this.lblToM.Name = "lblToM";
             this.lblToM.Size = new System.Drawing.Size(23, 17);
             this.lblToM.TabIndex = 0;
@@ -284,7 +284,7 @@
             "8",
             "9",
             "10"});
-            this.cbxk1.Location = new System.Drawing.Point(132, 51);
+            this.cbxk1.Location = new System.Drawing.Point(50, 28);
             this.cbxk1.Name = "cbxk1";
             this.cbxk1.Size = new System.Drawing.Size(80, 25);
             this.cbxk1.TabIndex = 1;
@@ -293,7 +293,7 @@
             // lblM
             // 
             this.lblM.AutoSize = true;
-            this.lblM.Location = new System.Drawing.Point(94, 128);
+            this.lblM.Location = new System.Drawing.Point(12, 71);
             this.lblM.Name = "lblM";
             this.lblM.Size = new System.Drawing.Size(20, 17);
             this.lblM.TabIndex = 0;
@@ -303,7 +303,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(227, 54);
+            this.label2.Location = new System.Drawing.Point(145, 31);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(23, 17);
             this.label2.TabIndex = 0;
@@ -312,7 +312,7 @@
             // lblK
             // 
             this.lblK.AutoSize = true;
-            this.lblK.Location = new System.Drawing.Point(94, 54);
+            this.lblK.Location = new System.Drawing.Point(12, 31);
             this.lblK.Name = "lblK";
             this.lblK.Size = new System.Drawing.Size(15, 17);
             this.lblK.TabIndex = 0;
@@ -326,16 +326,16 @@
             this.groupBox2.Controls.Add(this.txtSave);
             this.groupBox2.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.groupBox2.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.groupBox2.Location = new System.Drawing.Point(0, 505);
+            this.groupBox2.Location = new System.Drawing.Point(0, 297);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(851, 176);
+            this.groupBox2.Size = new System.Drawing.Size(544, 88);
             this.groupBox2.TabIndex = 0;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Save";
             // 
             // btnStar
             // 
-            this.btnStar.Location = new System.Drawing.Point(750, 85);
+            this.btnStar.Location = new System.Drawing.Point(457, 60);
             this.btnStar.Name = "btnStar";
             this.btnStar.Size = new System.Drawing.Size(75, 23);
             this.btnStar.TabIndex = 3;
@@ -345,14 +345,14 @@
             // 
             // pgb
             // 
-            this.pgb.Location = new System.Drawing.Point(25, 126);
+            this.pgb.Location = new System.Drawing.Point(6, 60);
             this.pgb.Name = "pgb";
-            this.pgb.Size = new System.Drawing.Size(800, 23);
+            this.pgb.Size = new System.Drawing.Size(435, 23);
             this.pgb.TabIndex = 2;
             // 
             // btnOpen
             // 
-            this.btnOpen.Location = new System.Drawing.Point(750, 38);
+            this.btnOpen.Location = new System.Drawing.Point(457, 22);
             this.btnOpen.Name = "btnOpen";
             this.btnOpen.Size = new System.Drawing.Size(75, 23);
             this.btnOpen.TabIndex = 1;
@@ -363,9 +363,9 @@
             // txtSave
             // 
             this.txtSave.AllowDrop = true;
-            this.txtSave.Location = new System.Drawing.Point(25, 38);
+            this.txtSave.Location = new System.Drawing.Point(6, 22);
             this.txtSave.Name = "txtSave";
-            this.txtSave.Size = new System.Drawing.Size(685, 23);
+            this.txtSave.Size = new System.Drawing.Size(435, 23);
             this.txtSave.TabIndex = 0;
             this.txtSave.DragDrop += new System.Windows.Forms.DragEventHandler(this.myDragDrop);
             this.txtSave.DragEnter += new System.Windows.Forms.DragEventHandler(this.myDragEnter);
@@ -374,7 +374,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1264, 681);
+            this.ClientSize = new System.Drawing.Size(746, 385);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
