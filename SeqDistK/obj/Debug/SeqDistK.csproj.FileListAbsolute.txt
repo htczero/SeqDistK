@@ -27,3 +27,12 @@ E:\Windows\DeskTop\SeqDistK-master\SeqDistK-master\SeqDistK\obj\Debug\SeqDistK.P
 E:\Windows\DeskTop\SeqDistK-master\SeqDistK-master\SeqDistK\obj\Debug\SeqDistK.csproj.GenerateResource.cache
 E:\Windows\DeskTop\SeqDistK-master\SeqDistK-master\SeqDistK\obj\Debug\SeqDistK.exe
 E:\Windows\DeskTop\SeqDistK-master\SeqDistK-master\SeqDistK\obj\Debug\SeqDistK.pdb
+E:\Windows\DeskTop\k\SeqDistK\SeqDistK\bin\Debug\SeqDistK.exe.config
+E:\Windows\DeskTop\k\SeqDistK\SeqDistK\bin\Debug\SeqDistK.exe
+E:\Windows\DeskTop\k\SeqDistK\SeqDistK\bin\Debug\SeqDistK.pdb
+E:\Windows\DeskTop\k\SeqDistK\SeqDistK\obj\Debug\SeqDistK.csprojAssemblyReference.cache
+E:\Windows\DeskTop\k\SeqDistK\SeqDistK\obj\Debug\SeqDistK.FrmDistance.resources
+E:\Windows\DeskTop\k\SeqDistK\SeqDistK\obj\Debug\SeqDistK.Properties.Resources.resources
+E:\Windows\DeskTop\k\SeqDistK\SeqDistK\obj\Debug\SeqDistK.csproj.GenerateResource.cache
+E:\Windows\DeskTop\k\SeqDistK\SeqDistK\obj\Debug\SeqDistK.exe
+E:\Windows\DeskTop\k\SeqDistK\SeqDistK\obj\Debug\SeqDistK.pdb
