@@ -14,18 +14,18 @@ namespace SeqDistK
             {
                 listTmp.Add(listFunName[i]);
             }
-            if (listTmp.Contains("Eu") && listTmp.Contains("Ma") && listTmp.Contains("Ch") && listTmp.Contains("D2"))
+            if (listTmp.Contains("Eu") && listTmp.Contains("Ma") && listTmp.Contains("Ch") && listTmp.Contains("d2"))
             {
                 listTmp.Remove("Eu");
                 listTmp.Remove("Ma");
                 listTmp.Remove("Ch");
-                listTmp.Remove("D2");
+                listTmp.Remove("d2");
                 _listFun.Add(CalEuMaChD2);
             }
-            if (listTmp.Contains("D2S") && listTmp.Contains("D2Star"))
+            if (listTmp.Contains("d2S") && listTmp.Contains("d2star"))
             {
-                listTmp.Remove("D2S");
-                listTmp.Remove("D2Star");
+                listTmp.Remove("d2S");
+                listTmp.Remove("d2star");
                 _listFun.Add(CalD2SD2Star);
             }
             foreach (var item in listTmp)
@@ -36,13 +36,13 @@ namespace SeqDistK
                     _listFun.Add(CalMa);
                 else if (item == "Ch")
                     _listFun.Add(CalCh);
-                else if (item == "D2")
+                else if (item == "d2")
                     _listFun.Add(CalD2);
                 else if (item == "Hao")
                     _listFun.Add(CalHao);
-                else if (item == "D2S")
+                else if (item == "d2S")
                     _listFun.Add(CalD2S);
-                else if (item == "D2Star")
+                else if (item == "d2star")
                     _listFun.Add(CalD2Star);
             }
         }
@@ -170,7 +170,7 @@ namespace SeqDistK
             SaveResult("Eu_k" + k, seqX, seqY, result, resultEu);
             SaveResult("Ch_k" + k, seqX, seqY, result, resultCh);
             SaveResult("Ma_k" + k, seqX, seqY, result, resultMa);
-            SaveResult("D2_k" + k, seqX, seqY, result, resultD2);
+            SaveResult("d2_k" + k, seqX, seqY, result, resultD2);
 
             //result.AddToMatrix("Eu_k" + k, seqX.ID, seqY.ID, resultEu);
             //result.AddToMatrix("Ch_k" + k, seqX.ID, seqY.ID, resultCh);
@@ -218,7 +218,7 @@ namespace SeqDistK
             tmpD2 = tmpD2 / (tmpXD2 * tmpYD2);
             resultD2 = 0.5 * (1 - tmpD2);
 
-            SaveResult("D2_k" + k, seqX, seqY, result, resultD2);
+            SaveResult("d2_k" + k, seqX, seqY, result, resultD2);
 
             //result.AddToMatrix("D2_k" + k, seqX.ID, seqY.ID, resultD2);
             //result.AddToMatrix("D2_k" + k, seqY.ID, seqX.ID, resultD2);
@@ -390,7 +390,7 @@ namespace SeqDistK
             tmpYD2S = Math.Sqrt(tmpYD2S);
             resultD2S = (1 - resultD2S / (tmpXD2S * tmpYD2S)) * 0.5;
 
-            SaveResult("D2S_k" + k + "_M" + m, seqX, seqY, result, resultD2S);
+            SaveResult("d2S_k" + k + "_M" + m, seqX, seqY, result, resultD2S);
 
             //result.AddToMatrix("D2S_k" + k + "_M" + m, seqX.ID, seqY.ID, resultD2S);
             //result.AddToMatrix("D2S_k" + k + "_M" + m, seqY.ID, seqX.ID, resultD2S);
@@ -451,7 +451,7 @@ namespace SeqDistK
             tmpXD2Star = Math.Sqrt(tmpXD2Star);
             tmpYD2Star = Math.Sqrt(tmpYD2Star);
             resultD2Star = 0.5 * (1 - resultD2Star / (tmpXD2Star * tmpYD2Star));
-            SaveResult("D2Star_k" + k + "_M" + m, seqX, seqY, result, resultD2Star);
+            SaveResult("d2star_k" + k + "_M" + m, seqX, seqY, result, resultD2Star);
             //result.AddToMatrix("D2Star_k" + k + "_M" + m, seqX.ID, seqY.ID, resultD2Star);
             //result.AddToMatrix("D2Star_k" + k + "_M" + m, seqY.ID, seqX.ID, resultD2Star);
         }
@@ -526,7 +526,7 @@ namespace SeqDistK
             tmpXD2S = Math.Sqrt(tmpXD2S);
             tmpYD2S = Math.Sqrt(tmpYD2S);
             resultD2S = (1 - resultD2S / (tmpXD2S * tmpYD2S)) * 0.5;
-            SaveResult("D2S_k" + k + "_M" + m, seqX, seqY, result, resultD2S);
+            SaveResult("d2S_k" + k + "_M" + m, seqX, seqY, result, resultD2S);
             //result.AddToMatrix("D2S_k" + k + "_M" + m, seqX.ID, seqY.ID, resultD2S);
             //result.AddToMatrix("D2S_k" + k + "_M" + m, seqY.ID, seqX.ID, resultD2S);
 
@@ -535,7 +535,7 @@ namespace SeqDistK
             tmpXD2Star = Math.Sqrt(tmpXD2Star);
             tmpYD2Star = Math.Sqrt(tmpYD2Star);
             resultD2Star = 0.5 * (1 - resultD2Star / (tmpXD2Star * tmpYD2Star));
-            SaveResult("D2Star_k" + k + "_M" + m, seqX, seqY, result, resultD2Star);
+            SaveResult("d2star_k" + k + "_M" + m, seqX, seqY, result, resultD2Star);
             //result.AddToMatrix("D2Star_k" + k + "_M" + m, seqX.ID, seqY.ID, resultD2Star);
             //result.AddToMatrix("D2Star_k" + k + "_M" + m, seqY.ID, seqX.ID, resultD2Star);
         }

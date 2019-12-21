@@ -283,7 +283,12 @@
             "7",
             "8",
             "9",
-            "10"});
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15"});
             this.cbxk1.Location = new System.Drawing.Point(50, 28);
             this.cbxk1.Name = "cbxk1";
             this.cbxk1.Size = new System.Drawing.Size(80, 25);

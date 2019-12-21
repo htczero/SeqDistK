@@ -18,3 +18,12 @@ E:\Windows\Documents\GitHub\SeqDistK\SeqDistK\obj\Debug\SeqDistK.csproj.CoreComp
 E:\Windows\Documents\GitHub\SeqDistK\SeqDistK\obj\Debug\SeqDistK.exe
 E:\Windows\Documents\GitHub\SeqDistK\SeqDistK\obj\Debug\SeqDistK.pdb
 E:\Windows\Documents\GitHub\SeqDistK\SeqDistK\obj\Debug\SeqDistK.csprojAssemblyReference.cache
+E:\Windows\DeskTop\SeqDistK-master\SeqDistK-master\SeqDistK\bin\Debug\SeqDistK.exe.config
+E:\Windows\DeskTop\SeqDistK-master\SeqDistK-master\SeqDistK\bin\Debug\SeqDistK.exe
+E:\Windows\DeskTop\SeqDistK-master\SeqDistK-master\SeqDistK\bin\Debug\SeqDistK.pdb
+E:\Windows\DeskTop\SeqDistK-master\SeqDistK-master\SeqDistK\obj\Debug\SeqDistK.csprojAssemblyReference.cache
+E:\Windows\DeskTop\SeqDistK-master\SeqDistK-master\SeqDistK\obj\Debug\SeqDistK.FrmDistance.resources
+E:\Windows\DeskTop\SeqDistK-master\SeqDistK-master\SeqDistK\obj\Debug\SeqDistK.Properties.Resources.resources
+E:\Windows\DeskTop\SeqDistK-master\SeqDistK-master\SeqDistK\obj\Debug\SeqDistK.csproj.GenerateResource.cache
+E:\Windows\DeskTop\SeqDistK-master\SeqDistK-master\SeqDistK\obj\Debug\SeqDistK.exe
+E:\Windows\DeskTop\SeqDistK-master\SeqDistK-master\SeqDistK\obj\Debug\SeqDistK.pdb

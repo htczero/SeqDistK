@@ -137,7 +137,7 @@ namespace SeqDistK
         private void WriteResultMatrix(List<string> listSeqName, string savePath, string fun, int k, int m = -1)
         {
             string key = fun + "_k" + k;
-            if (fun == "D2S" || fun == "D2Star")
+            if (fun == "d2S" || fun == "d2star")
             {
                 key += "_M" + m;
             }
@@ -185,7 +185,7 @@ namespace SeqDistK
         private void WriteResultVector(string savePath, string fun, int k, int m = -1)
         {
             string key = fun + "_k" + k;
-            if (fun == "D2S" || fun == "D2Star")
+            if (fun == "d2S" || fun == "d2star")
             {
                 key += "_M" + m;
             }
